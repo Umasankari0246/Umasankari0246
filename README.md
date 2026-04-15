@@ -144,7 +144,7 @@ Passionate about solving real-world problems through scalable and efficient soft
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/Umasankari0246/umaportfolio">
+<a href="https://umasankari0246.github.io/UmaSankari/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
 </a>
 
