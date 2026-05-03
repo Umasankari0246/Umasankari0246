@@ -140,7 +140,7 @@ Passionate about solving real-world problems through scalable and efficient soft
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/uma-sankari-38673931b/">
+<a href="https://www.linkedin.com/in/umasankari0246/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
